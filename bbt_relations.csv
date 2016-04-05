@@ -1,0 +1,859 @@
+Source;Target;Type;Weight
+Spock;Leonard;Undirected;1
+Spock;Sheldon;Undirected;3
+Mrs Koothrapalli;Raj;Undirected;2
+Various;Stuart;Undirected;1
+Penny’s Dad;Leonard;Undirected;1
+Penny’s Dad;Penny;Undirected;1
+Missy;Leonard;Undirected;2
+Missy;Sheldon;Undirected;3
+Missy;Howard;Undirected;2
+Missy;Raj;Undirected;1
+Phone;Siri;Undirected;1
+Announcer;Santa;Undirected;1
+Mr Rostenkowski;Rai;Undirected;1
+Guy at door;Howard;Undirected;1
+Dr Massimino;Mass;Undirected;1
+Leonard’s Mother;Beverley;Undirected;1
+Judge;Sheldon;Undirected;1
+Kevn;Wil;Undirected;1
+Stuart;Sheldon;Undirected;15
+Stuart;Story;Undirected;1
+Stuart;Woman;Undirected;1
+Stuart;Guy;Undirected;1
+Stuart;Together;Undirected;1
+Stuart;Bernadette;Undirected;4
+Stuart;Stan Lee;Undirected;1
+Stuart;Wil Wheaton;Undirected;3
+Stuart;Korean;Undirected;1
+Stuart;Penny;Undirected;8
+Stuart;Howard’s mother;Undirected;1
+Stuart;Jesse;Undirected;2
+Stuart;Leonard;Undirected;11
+Stuart;Santa;Undirected;1
+Stuart;Todd;Undirected;1
+Stuart;Howard;Undirected;7
+Stuart;Wil;Undirected;6
+Stuart;Raj;Undirected;4
+Stuart;Sweatpants;Undirected;1
+Stuart;Amy;Undirected;1
+Stuart;Hot girl;Undirected;1
+Stuart;Rai;Undirected;2
+Stuart;Everyone;Undirected;1
+Mrs Koothrappali;Sheldon;Undirected;1
+Mrs Koothrappali;Bernadette;Undirected;1
+Mrs Koothrappali;Penny;Undirected;1
+Mrs Koothrappali;Howard;Undirected;2
+Mrs Koothrappali;Lakshmi;Undirected;1
+Mrs Koothrappali;Lalita;Undirected;3
+Mrs Koothrappali;Raj;Undirected;4
+Dr Gablehouser;Dr Hofstadter;Undirected;1
+Jimmy;Leonard;Undirected;3
+Martha;Sheldon;Undirected;1
+David;Leonard;Undirected;6
+David;Dave;Undirected;1
+David;Penny;Undirected;1
+David;Gablehauser;Undirected;1
+Lesley;Leonard;Undirected;7
+Good looking man coming up stairs;Penny;Undirected;1
+Gablehauser;Dr Koothrappali;Undirected;2
+Gablehauser;Howard;Undirected;1
+Warrior;Leonard;Undirected;1
+Warrior;Penny;Undirected;2
+Warrior;Howard;Undirected;1
+Tom;Penny;Undirected;2
+ISS voice;Houston;Undirected;2
+Seibert;Leonard;Undirected;1
+Seibert;Howard;Undirected;1
+Seibert;Raj;Undirected;1
+James Earl Jones;Leonard;Undirected;1
+Official;Story;Undirected;1
+Official;Penny;Undirected;1
+LeVar Burton;Sheldon;Undirected;1
+Arthur;Korean;Undirected;1
+Arthur;Sheldon;Undirected;8
+Arthur;Leonard;Undirected;1
+Arthur;Professor Proton;Undirected;2
+Alice;Leonard;Undirected;1
+Girl in Butterfly Costume;Raj;Undirected;1
+Mrs Fowler;Sheldon;Undirected;1
+Mrs Fowler;Amy;Undirected;2
+Dave;Leonard;Undirected;2
+Dave;Sheldon;Undirected;4
+Dave;Amy;Undirected;3
+Girl;Leonard;Undirected;1
+Girl;Bethany;Undirected;1
+Girl;Abby;Undirected;1
+Girl;Ramona;Undirected;1
+Girl;Penny;Undirected;1
+Girl;Howard;Undirected;2
+Girl;Kathy;Undirected;1
+Girl;Vanessa;Undirected;1
+Girl;Raj;Undirected;1
+Beverley;Leonard;Undirected;10
+Beverley;Sheldon;Undirected;6
+Beverley;Howard;Undirected;2
+Beverley;Penny;Undirected;1
+Beverley;Raj;Undirected;1
+Woman;Leonard;Undirected;1
+Woman;Angela;Undirected;1
+Woman;Michaela;Undirected;1
+Woman;Penny;Undirected;1
+Woman;Laura;Undirected;1
+Woman;Howard;Undirected;1
+Woman;Raj;Undirected;1
+Ramona;Leonard;Undirected;1
+Ramona;Sheldon;Undirected;1
+Ramona;Leslie Winkle;Undirected;1
+Ramona;Leslie;Undirected;1
+Man on Screen;Venkatesh;Undirected;1
+Man on Screen;Raj;Undirected;1
+Mrs Hofstadter;Leonard;Undirected;3
+Mrs Hofstadter;Sheldon;Undirected;2
+Mrs Hofstadter;Penny;Undirected;2
+Jeannie;Stuart;Undirected;1
+Jeannie;Howard;Undirected;1
+Woman at Door;Raj;Undirected;1
+Woman at Door;Howard;Undirected;1
+Woman at Door;Page;Undirected;1
+Very tall and powerfully built man;Bernadette;Undirected;1
+Man on TV;Leonard;Undirected;1
+Man on TV;Sheldon;Undirected;1
+Dr Hofstadter;Leonard;Undirected;2
+Dr Hofstadter;Sheldon;Undirected;3
+Dr Hofstadter;Penny;Undirected;1
+Theatre staff;Guy;Undirected;1
+Elizabeth;Leonard;Undirected;2
+Elizabeth;Sheldon;Undirected;1
+Elizabeth;Howard;Undirected;3
+Elizabeth;Everybody;Undirected;1
+Elizabeth;Wil;Undirected;1
+Elizabeth;Raj;Undirected;2
+Dr Lorvis;Leonard;Undirected;1
+Dr Lorvis;Sheldon;Undirected;1
+Dr Lorvis;Penny;Undirected;2
+Dr Koothrappali;Priya;Undirected;2
+Dr Koothrappali;Sheldon;Undirected;1
+Dr Koothrappali;Raj;Undirected;7
+Dr Koothrappali;Leonard;Undirected;2
+Dr Koothrappali;Lakshmi;Undirected;1
+Mrs Gunderson;Leonard;Undirected;1
+James;Sheldon;Undirected;2
+James;Carrie Fisher;Undirected;1
+Dan;Kathy;Undirected;1
+Dan;Bernadette;Undirected;2
+Dan;Everyone;Undirected;1
+Dan;Penny;Undirected;1
+Leonard,Sheldon and Howard together;Raj;Undirected;1
+Adam;Spock;Undirected;3
+Raj’s Voice;Howard;Undirected;1
+Bernadette;Jimmy;Undirected;1
+Bernadette;Sheldon;Undirected;45
+Bernadette;Amelia;Undirected;1
+Bernadette;Guy;Undirected;4
+Bernadette;Phone;Undirected;1
+Bernadette;Josh;Undirected;1
+Bernadette;Glenn;Undirected;5
+Bernadette;Korean;Undirected;1
+Bernadette;Trent;Undirected;2
+Bernadette;Penny;Undirected;40
+Bernadette;Dave;Undirected;1
+Bernadette;Stuart;Undirected;20
+Bernadette;Kid;Undirected;1
+Bernadette;Dan;Undirected;2
+Bernadette;Alex;Undirected;2
+Bernadette;Lucy;Undirected;1
+Bernadette;Leonard;Undirected;33
+Bernadette;Santa;Undirected;3
+Bernadette;Priya;Undirected;6
+Bernadette;Howard;Undirected;88
+Bernadette;Emily;Undirected;6
+Bernadette;Doctor;Undirected;1
+Bernadette;Raj;Undirected;37
+Bernadette;Buzz;Undirected;2
+Bernadette;Joy;Undirected;1
+Bernadette;Amy;Undirected;35
+Bernadette;Girl;Undirected;2
+Bernadette;Howard’s mother;Undirected;1
+Bernadette;George Takei;Undirected;1
+Bernadette;Siri;Undirected;1
+Bernadette;Lakshmi;Undirected;1
+Priya;Leonard;Undirected;25
+Priya;Sheldon;Undirected;16
+Priya;Bernadette;Undirected;4
+Priya;Penny;Undirected;4
+Priya;Howard;Undirected;6
+Priya;Raj;Undirected;7
+Bermadette;Raj;Undirected;1
+Page;Leonard;Undirected;1
+Page;Howard;Undirected;2
+Elon;Howard;Undirected;1
+Wil;Leonard;Undirected;4
+Wil;Sheldon;Undirected;15
+Wil;Amy;Undirected;1
+Wil;Adam;Undirected;1
+Wil;Penny;Undirected;4
+Wil;Howard;Undirected;1
+Wil;Kevin;Undirected;3
+Wil;Clerk;Undirected;1
+Wil;George Takei;Undirected;1
+Rajj;Sheldon;Undirected;1
+Emily;Leonard;Undirected;1
+Emily;Penny;Undirected;1
+Emily;Raj;Undirected;6
+Zack;Leonard;Undirected;1
+Zack;Woman;Undirected;1
+Zack;Penny;Undirected;5
+Fat Leonard and Raj;Stuart;Undirected;1
+Man in Suit;Houston;Undirected;1
+Wyatt;Leonard;Undirected;4
+Janine;Sheldon;Undirected;1
+Janine;Barry;Undirected;1
+GPS;Leonard;Undirected;1
+Speccy Guy;Dale;Undirected;1
+Siri;Dave;Undirected;1
+Siri;Raj;Undirected;2
+Past Sheldon;Leonard;Undirected;3
+Past Sheldon;Kirk;Undirected;1
+Store clerk;Leonard;Undirected;1
+Dead Mrs Wolowitz;Howard;Undirected;1
+Barry;Voice;Undirected;1
+Barry;Steph;Undirected;1
+Barry;Zack;Undirected;1
+Barry;Phone;Undirected;1
+Barry;Child;Undirected;1
+Barry;Amy;Undirected;2
+Barry;Stephen Hawking;Undirected;1
+Barry;Hawking;Undirected;1
+Barry;Janine;Undirected;1
+Barry;Waiter;Undirected;1
+Sheldon;Spock;Undirected;31
+Sheldon;Voice;Undirected;1
+Sheldon;Missy;Undirected;4
+Sheldon;Phone;Undirected;5
+Sheldon;Buzz;Undirected;2
+Sheldon;Dennis;Undirected;3
+Sheldon;Stan Lee;Undirected;10
+Sheldon;Korean;Undirected;6
+Sheldon;Stuart;Undirected;26
+Sheldon;Dr Gablehouser;Undirected;3
+Sheldon;Jimmy;Undirected;2
+Sheldon;Brent Spiner;Undirected;4
+Sheldon;Barry Kripke;Undirected;7
+Sheldon;Lesley;Undirected;3
+Sheldon;Gablehauser;Undirected;3
+Sheldon;Laura;Undirected;1
+Sheldon;Nathan;Undirected;1
+Sheldon;Tom;Undirected;8
+Sheldon;Mrs Davis;Undirected;1
+Sheldon;Seibert;Undirected;2
+Sheldon;James Earl Jones;Undirected;2
+Sheldon;Alex;Undirected;11
+Sheldon;Bill Murray;Undirected;1
+Sheldon;Director;Undirected;1
+Sheldon;Howard’s mother;Undirected;2
+Sheldon;Mass;Undirected;2
+Sheldon;Woman;Undirected;4
+Sheldon;Guy;Undirected;3
+Sheldon;Kirk;Undirected;7
+Sheldon;Bill Nye;Undirected;4
+Sheldon;Howard and Bernadette;Undirected;2
+Sheldon;Hawking;Undirected;34
+Sheldon;LeVar Burton;Undirected;3
+Sheldon;James;Undirected;7
+Sheldon;George Smoot;Undirected;2
+Sheldon;Elizabeth;Undirected;5
+Sheldon;Houston;Undirected;4
+Sheldon;Dan;Undirected;7
+Sheldon;Rothman;Undirected;4
+Sheldon;Adam;Undirected;3
+Sheldon;Caption;Undirected;1
+Sheldon;Bernadette;Undirected;27
+Sheldon;Priya;Undirected;11
+Sheldon;Joyce Kim;Undirected;1
+Sheldon;Page;Undirected;3
+Sheldon;Wil;Undirected;68
+Sheldon;Cole;Undirected;1
+Sheldon;Zack;Undirected;8
+Sheldon;Actor;Undirected;1
+Sheldon;Professor Proton;Undirected;15
+Sheldon;Dave;Undirected;1
+Sheldon;Greene;Undirected;2
+Sheldon;Mandy;Undirected;3
+Sheldon;Siri;Undirected;3
+Sheldon;Barry;Undirected;17
+Sheldon;Ira Flatow;Undirected;1
+Sheldon;Summer;Undirected;1
+Sheldon;Glenn;Undirected;2
+Sheldon;Leslie;Undirected;8
+Sheldon;Sarah;Undirected;4
+Sheldon;Steph;Undirected;32
+Sheldon;Everyone;Undirected;7
+Sheldon;Leslie Winkle;Undirected;6
+Sheldon;Kid;Undirected;2
+Sheldon;Mike;Undirected;1
+Sheldon;Janine;Undirected;1
+Sheldon;Ramona;Undirected;4
+Sheldon;Santa;Undirected;8
+Sheldon;Waitress;Undirected;1
+Sheldon;Eric;Undirected;1
+Sheldon;Doctor;Undirected;8
+Sheldon;Raj;Undirected;75
+Sheldon;Kripke;Undirected;36
+Sheldon;Girl;Undirected;1
+Sheldon;Everybody;Undirected;7
+Sheldon;Rai;Undirected;13
+Sheldon;Carrie Fisher;Undirected;1
+Sheldon;Arthur;Undirected;14
+Sheldon;Clerk;Undirected;1
+Sheldon;GPS;Undirected;3
+Sheldon;Story;Undirected;2
+Sheldon;Gablehouser;Undirected;3
+Sheldon;Taxi driver;Undirected;1
+Sheldon;Hernandez;Undirected;2
+Sheldon;Ira;Undirected;4
+Sheldon;Christie;Undirected;1
+Sheldon;Wil Wheaton;Undirected;36
+Sheldon;Bert;Undirected;1
+Sheldon;Penny;Undirected;361
+Sheldon;Alicia;Undirected;4
+Sheldon;Child;Undirected;1
+Sheldon;Brent;Undirected;4
+Sheldon;Radio;Undirected;5
+Sheldon;Official;Undirected;1
+Sheldon;Leonard;Undirected;605
+Sheldon;Goldfarb;Undirected;2
+Sheldon;Todd;Undirected;3
+Sheldon;Emily;Undirected;2
+Sheldon;Kurt;Undirected;2
+Sheldon;Stephen Hawking;Undirected;18
+Sheldon;Howard;Undirected;125
+Sheldon;Dale;Undirected;1
+Sheldon;Nathan Fillion;Undirected;1
+Sheldon;Sweatpants;Undirected;2
+Sheldon;Amy;Undirected;236
+Sheldon;Joy;Undirected;1
+Sheldon;LeVar;Undirected;3
+Sheldon;Toby;Undirected;2
+Sheldon;Bill;Undirected;10
+Sheldon;Siebert;Undirected;8
+Sheldon;Witch;Undirected;1
+Secne;Mrs Latham;Undirected;1
+Headmaster;Leonard;Undirected;1
+Together;Spock;Undirected;1
+Together;Dr Gablehouser;Undirected;1
+Together;Gablehouser;Undirected;1
+Together;Professor Proton;Undirected;1
+Leslie;Leonard;Undirected;8
+Leslie;Sheldon;Undirected;6
+Leslie;Penny;Undirected;2
+Leslie;Howard;Undirected;2
+Sarah;Raj;Undirected;1
+Prof Crawley;Toby;Undirected;1
+Ghostly voice;Sheldon;Undirected;2
+Bethany;Howard;Undirected;1
+Steph;Leonard;Undirected;3
+Steph;Sheldon;Undirected;9
+Steph;Howard;Undirected;1
+Everyone;Leonard;Undirected;1
+Penny’s dad;Penny;Undirected;1
+Woman in lab coat;David;Undirected;1
+Mike;Sheldon;Undirected;1
+Mike;Kid;Undirected;1
+Mike;Dimitri;Undirected;2
+Mike;Howard;Undirected;1
+Mrs Cooper;Leonard;Undirected;9
+Mrs Cooper;Sheldon;Undirected;17
+Mrs Cooper;Gablehouser;Undirected;1
+Mrs Cooper;Penny;Undirected;1
+Mrs Cooper;Howard;Undirected;1
+Mrs Cooper;Everybody;Undirected;1
+Mrs Cooper;Doctor;Undirected;1
+Mrs Cooper;Everyone;Undirected;1
+Mrs Cooper;Raj;Undirected;4
+Mrs Cooper;Amy;Undirected;2
+Mrs Cooper;Girl;Undirected;1
+Mrs Cooper;Woman;Undirected;1
+Mrs Cooper;Dr Gablehouser;Undirected;1
+Mrs Cooper;Houston;Undirected;2
+Lucy;Amy;Undirected;1
+Lucy;Wil;Undirected;1
+Lucy;Raj;Undirected;3
+Santa;Sheldon;Undirected;2
+Mrs Wolowitz;Leonard;Undirected;1
+Mrs Wolowitz;Sheldon;Undirected;2
+Mrs Wolowitz;Bernadette;Undirected;4
+Mrs Wolowitz;Howard;Undirected;21
+Mrs Wolowitz;Stuart;Undirected;1
+Mrs Wolowitz;Doug;Undirected;1
+Mrs Wolowitz;Raj;Undirected;2
+Blonde Girl;Alicia;Undirected;1
+Howard;Spock;Undirected;3
+Howard;Alicia;Undirected;1
+Howard;Doctor;Undirected;6
+Howard;Leslie;Undirected;9
+Howard;Phone;Undirected;4
+Howard;Summer;Undirected;6
+Howard;Glenn;Undirected;2
+Howard;Dennis;Undirected;1
+Howard;Stan Lee;Undirected;5
+Howard;Dave;Undirected;3
+Howard;Stuart;Undirected;16
+Howard;Bethany;Undirected;1
+Howard;Steph;Undirected;11
+Howard;Tom;Undirected;1
+Howard;Everyone;Undirected;4
+Howard;Trent;Undirected;3
+Howard;Janine;Undirected;1
+Howard;Kid;Undirected;4
+Howard;Mike;Undirected;5
+Howard;Leslie Winkle;Undirected;3
+Howard;Lucy;Undirected;1
+Howard;Mrs. Rostenkowski;Undirected;1
+Howard;David;Undirected;2
+Howard;Santa;Undirected;2
+Howard;Houston;Undirected;2
+Howard;Lesley;Undirected;2
+Howard;Gablehauser;Undirected;1
+Howard;Katee Sackhoff;Undirected;2
+Howard;Witch;Undirected;1
+Howard;Katee;Undirected;5
+Howard;Howie Mandel;Undirected;1
+Howard;Raj;Undirected;104
+Howard;Mr. Rostenkowski;Undirected;1
+Howard;Kripke;Undirected;2
+Howard;Girl;Undirected;2
+Howard;Zack;Undirected;1
+Howard;Mass;Undirected;5
+Howard;Arthur;Undirected;1
+Howard;GPS;Undirected;1
+Howard;Sheldon;Undirected;170
+Howard;Buzz;Undirected;3
+Howard;Woman;Undirected;3
+Howard;Guy;Undirected;4
+Howard;James Earl Jones;Undirected;1
+Howard;Alex;Undirected;2
+Howard;Everybody;Undirected;3
+Howard;Hawking;Undirected;11
+Howard;Hot girl;Undirected;1
+Howard;Christie;Undirected;1
+Howard;Steve Wozniak;Undirected;1
+Howard;Bert;Undirected;3
+Howard;Penny;Undirected;60
+Howard;Rai;Undirected;1
+Howard;Barry;Undirected;2
+Howard;James;Undirected;1
+Howard;Dan;Undirected;1
+Howard;Rothman;Undirected;1
+Howard;Leonard;Undirected;96
+Howard;Bernadette;Undirected;94
+Howard;Priya;Undirected;3
+Howard;Joyce Kim;Undirected;1
+Howard;Todd;Undirected;1
+Howard;Emily;Undirected;13
+Howard;Stephen Hawking;Undirected;6
+Howard;Elon;Undirected;2
+Howard;Wil;Undirected;10
+Howard;Siri;Undirected;2
+Howard;Amy;Undirected;17
+Howard;Joy;Undirected;2
+Howard;Professor Proton;Undirected;1
+Howard;Toby;Undirected;3
+Howard;Missy;Undirected;3
+Howard;Nurse;Undirected;1
+Howard;Siebert;Undirected;1
+Howard;Bill;Undirected;4
+Katee Sackhoff;Howard;Undirected;5
+Dr Millstone;Prof Laughlin;Undirected;1
+Dr Millstone;Raj;Undirected;1
+HR Woman;Alex;Undirected;1
+HR Woman;Raj;Undirected;1
+Katee;Bernadette;Undirected;1
+Lalita;Sheldon;Undirected;2
+Lalita;Raj;Undirected;1
+Bill Nye;Arthur;Undirected;1
+Kirk;Dan;Undirected;1
+Stadium Announcer;Howard;Undirected;1
+Mr. Rostenkowski;Bernadette;Undirected;2
+Mr. Rostenkowski;Mike;Undirected;1
+Kripke;Seibert;Undirected;1
+Kripke;Siebert;Undirected;1
+Kripke;Sheldon;Undirected;1
+Kripke;Ira;Undirected;1
+Kripke;Howard;Undirected;1
+Kripke;Wil;Undirected;1
+Kripke;Tom;Undirected;1
+Kripke;Raj;Undirected;1
+Voice;Sheldon;Undirected;1
+Voice;Howard;Undirected;2
+Voice;Dave;Undirected;1
+Voice;Houston;Undirected;1
+Voice;Roeger;Undirected;1
+Voice;Raj;Undirected;1
+Phone rings. Answering machine;Steph;Undirected;3
+Penny- warrior;Leonard;Undirected;1
+Mrs Latham;Leonard;Undirected;3
+Carrie Fisher;James;Undirected;1
+Minister;Leonard;Undirected;1
+Minister;Penny;Undirected;1
+Dennis;Steph;Undirected;1
+Mandy;Leonard;Undirected;1
+Mandy;Sheldon;Undirected;1
+Second girl;Sarah;Undirected;1
+Howard’s phone;Raj;Undirected;1
+Story;Eric;Undirected;1
+Story;Bill;Undirected;3
+Gablehouser;Sheldon;Undirected;1
+Gablehouser;Steph;Undirected;1
+Gablehouser;Doctor;Undirected;1
+Gablehouser;Buzz;Undirected;6
+Gablehouser;Howard;Undirected;1
+Gablehouser;Dennis;Undirected;6
+Everybody;Penny;Undirected;1
+Hot girl;Alice;Undirected;1
+Christie;Beverley;Undirected;1
+Christie;Howard;Undirected;3
+Wil Wheaton;Stuart;Undirected;1
+Wil Wheaton;Sheldon;Undirected;3
+Wil Wheaton;Adam;Undirected;1
+Theatre Staff;Wil;Undirected;1
+Theatre Staff;Wil Wheaton;Undirected;1
+Shelldon;Mrs Davis;Undirected;1
+Raj;Spock;Undirected;4
+Raj;Judge;Undirected;1
+Raj;Michaela;Undirected;2
+Raj;Elizabeth;Undirected;1
+Raj;Leslie Winkle;Undirected;1
+Raj;Phone;Undirected;3
+Raj;Summer;Undirected;1
+Raj;Buzz;Undirected;3
+Raj;Howard and Bernadette;Undirected;2
+Raj;Stan Lee;Undirected;3
+Raj;Stuart;Undirected;24
+Raj;Steph;Undirected;4
+Raj;Waiter;Undirected;2
+Raj;Everyone;Undirected;3
+Raj;Trent;Undirected;4
+Raj;Woman;Undirected;2
+Raj;Dr Gablehouser;Undirected;1
+Raj;Kid;Undirected;3
+Raj;Mike;Undirected;2
+Raj;Lalita;Undirected;5
+Raj;Lucy;Undirected;18
+Raj;David;Undirected;1
+Raj;Santa;Undirected;1
+Raj;Zombie;Undirected;1
+Raj;Ms Jenson;Undirected;1
+Raj;Nathan;Undirected;4
+Raj;Tom;Undirected;3
+Raj;Martha;Undirected;4
+Raj;Doctor;Undirected;1
+Raj;James Earl Jones;Undirected;2
+Raj;Kripke;Undirected;3
+Raj;Girl;Undirected;3
+Raj;Bill Murray;Undirected;2
+Raj;Rai;Undirected;2
+Raj;Houston;Undirected;2
+Raj;Doug;Undirected;1
+Raj;Missy;Undirected;3
+Raj;Dennis;Undirected;3
+Raj;Mandy;Undirected;2
+Raj;Sheldon;Undirected;124
+Raj;Story;Undirected;4
+Raj;Gablehouser;Undirected;1
+Raj;Guy;Undirected;9
+Raj;Kirk;Undirected;1
+Raj;Alex;Undirected;4
+Raj;Everybody;Undirected;3
+Raj;Hawking;Undirected;2
+Raj;Wil Wheaton;Undirected;4
+Raj;Leslie;Undirected;2
+Raj;Girls;Undirected;1
+Raj;Witch;Undirected;2
+Raj;Penny;Undirected;65
+Raj;Dave;Undirected;2
+Raj;James;Undirected;4
+Raj;Radio;Undirected;1
+Raj;Dan;Undirected;2
+Raj;Rothman;Undirected;1
+Raj;Adam;Undirected;2
+Raj;Leonard;Undirected;68
+Raj;Bernadette;Undirected;31
+Raj;Priya;Undirected;7
+Raj;Todd;Undirected;1
+Raj;Page;Undirected;2
+Raj;Emily;Undirected;26
+Raj;Model;Undirected;1
+Raj;Stephen Hawking;Undirected;2
+Raj;Howard;Undirected;89
+Raj;Wil;Undirected;8
+Raj;Nathan Fillion;Undirected;4
+Raj;Sweatpants;Undirected;1
+Raj;Abby;Undirected;2
+Raj;Amy;Undirected;21
+Raj;Owner;Undirected;1
+Raj;Barry;Undirected;1
+Raj;Toby;Undirected;1
+Raj;Lakshmi;Undirected;3
+Raj;Siri;Undirected;8
+Raj;Siebert;Undirected;1
+Raj;Bill;Undirected;6
+Dimitri;Mission Control;Undirected;2
+Bert;Santa;Undirected;1
+Bert;Amy;Undirected;1
+Penny;Spock;Undirected;6
+Penny;Leslie;Undirected;2
+Penny;Phone;Undirected;4
+Penny;Child;Undirected;2
+Penny;Summer;Undirected;1
+Penny;Amelia;Undirected;6
+Penny;Howard and Bernadette;Undirected;2
+Penny;Ramona;Undirected;1
+Penny;Stan Lee;Undirected;5
+Penny;Steph;Undirected;5
+Penny;Everyone;Undirected;5
+Penny;Stuart;Undirected;13
+Penny;Kid;Undirected;1
+Penny;Mike;Undirected;6
+Penny;Lucy;Undirected;1
+Penny;David;Undirected;1
+Penny;Houston;Undirected;1
+Penny;Eric;Undirected;2
+Penny;Lesley;Undirected;2
+Penny;Howard;Undirected;75
+Penny;Warrior;Undirected;2
+Penny;Laura;Undirected;1
+Penny;Alicia;Undirected;2
+Penny;Raj;Undirected;68
+Penny;Howard and Raj;Undirected;2
+Penny;Sweatpants;Undirected;1
+Penny;Kripke;Undirected;1
+Penny;Girl;Undirected;5
+Penny;Mass;Undirected;1
+Penny;Zack;Undirected;13
+Penny;Doug;Undirected;3
+Penny;Arthur;Undirected;2
+Penny;Mandy;Undirected;1
+Penny;Sheldon;Undirected;404
+Penny;Story;Undirected;1
+Penny;Leonard and Howard;Undirected;1
+Penny;Woman;Undirected;3
+Penny;Guy;Undirected;9
+Penny;Kirk;Undirected;3
+Penny;Everybody;Undirected;2
+Penny;Kevin;Undirected;2
+Penny;Hawking;Undirected;3
+Penny;Christie;Undirected;5
+Penny;Wil Wheaton;Undirected;2
+Penny;Girls;Undirected;1
+Penny;Bert;Undirected;1
+Penny;Missy;Undirected;3
+Penny;Howard’s mother;Undirected;1
+Penny;Cole;Undirected;1
+Penny;James;Undirected;1
+Penny;Dan;Undirected;7
+Penny;Alex;Undirected;5
+Penny;Leonard;Undirected;346
+Penny;Bernadette;Undirected;42
+Penny;Priya;Undirected;22
+Penny;Joyce Kim;Undirected;2
+Penny;Adam;Undirected;2
+Penny;Kathy;Undirected;2
+Penny;Model;Undirected;1
+Penny;Stephen Hawking;Undirected;1
+Penny;Doctor;Undirected;4
+Penny;Wil;Undirected;12
+Penny;Gretchen;Undirected;2
+Penny;Emily;Undirected;6
+Penny;Amy;Undirected;110
+Penny;Joy;Undirected;2
+Penny;Professor Proton;Undirected;2
+Penny;Kurt;Undirected;9
+Penny;Dave;Undirected;5
+Penny;Radio;Undirected;2
+Penny;George Smoot;Undirected;1
+Alicia;Leonard;Undirected;2
+Jesse;Stuart;Undirected;1
+Sheldon’s voice;Spock;Undirected;1
+Sheldon’s voice;Sheldon;Undirected;1
+Sheldon’s voice;Leonard;Undirected;1
+Radio;Ira Flatow;Undirected;1
+Radio;Sheldon;Undirected;1
+Radio;Ira;Undirected;1
+Alex;Leonard;Undirected;2
+Alex;Sheldon;Undirected;1
+Alex;Steph;Undirected;1
+Alex;Amy;Undirected;2
+Alex;Rai;Undirected;1
+Alex;Stephen Hawking;Undirected;1
+Alex;Hawking;Undirected;1
+Montage of scenes;Sheldon;Undirected;1
+Montage of scenes;Ramona;Undirected;1
+Leonard;Spock;Undirected;5
+Leonard;Psychic;Undirected;1
+Leonard;Missy;Undirected;7
+Leonard;Phone;Undirected;6
+Leonard;Alicia;Undirected;3
+Leonard;Howard and Bernadette;Undirected;4
+Leonard;Stan Lee;Undirected;6
+Leonard;Korean;Undirected;3
+Leonard;Stuart;Undirected;35
+Leonard;Mrs Koothrappali;Undirected;1
+Leonard;Jimmy;Undirected;10
+Leonard;Martha;Undirected;1
+Leonard;Brent Spiner;Undirected;3
+Leonard;James;Undirected;1
+Leonard;Lesley;Undirected;12
+Leonard;Gablehauser;Undirected;3
+Leonard;Warrior;Undirected;1
+Leonard;Laura;Undirected;2
+Leonard;Tom;Undirected;3
+Leonard;Seibert;Undirected;1
+Leonard;James Earl Jones;Undirected;1
+Leonard;LeVar Burton;Undirected;1
+Leonard;Sheldon;Undirected;531
+Leonard;Ramona;Undirected;3
+Leonard;Kirk;Undirected;3
+Leonard;Bill Nye;Undirected;2
+Leonard;Dennis;Undirected;5
+Leonard;Hawking;Undirected;8
+Leonard;Girls;Undirected;2
+Leonard;Witch;Undirected;1
+Leonard;Elizabeth;Undirected;4
+Leonard;Barry Kripke;Undirected;1
+Leonard;Dan;Undirected;1
+Leonard;Bernadette;Undirected;29
+Leonard;Priya;Undirected;26
+Leonard;Joyce Kim;Undirected;5
+Leonard;Wil;Undirected;28
+Leonard;Howard and Raj;Undirected;4
+Leonard;Zack;Undirected;12
+Leonard;Receptionist;Undirected;1
+Leonard;Professor Proton;Undirected;2
+Leonard;Character;Undirected;1
+Leonard;Dave;Undirected;3
+Leonard;Mandy;Undirected;2
+Leonard;Barry;Undirected;7
+Leonard;Beverley;Undirected;1
+Leonard;Alice;Undirected;2
+Leonard;Summer;Undirected;1
+Leonard;Glenn;Undirected;1
+Leonard;Leslie;Undirected;21
+Leonard;Steph;Undirected;15
+Leonard;Everyone;Undirected;2
+Leonard;Leslie Winkle;Undirected;3
+Leonard;Kid;Undirected;3
+Leonard;Mike;Undirected;1
+Leonard;Lalita;Undirected;2
+Leonard;Guy;Undirected;15
+Leonard;Santa;Undirected;4
+Leonard;Waitress;Undirected;1
+Leonard;Doctor;Undirected;5
+Leonard;Raj;Undirected;115
+Leonard;Kripke;Undirected;12
+Leonard;Girl;Undirected;3
+Leonard;Rai;Undirected;2
+Leonard;Doug;Undirected;1
+Leonard;Arthur;Undirected;6
+Leonard;GPS;Undirected;2
+Leonard;Gablehouser;Undirected;1
+Leonard;David;Undirected;2
+Leonard;Everybody;Undirected;4
+Leonard;Christie;Undirected;2
+Leonard;Wil Wheaton;Undirected;2
+Leonard;Steve Wozniak;Undirected;1
+Leonard;Bert;Undirected;1
+Leonard;Penny;Undirected;294
+Leonard;Wyatt;Undirected;3
+Leonard;Brent;Undirected;3
+Leonard;Alex;Undirected;10
+Leonard;Goldfarb;Undirected;1
+Leonard;Adam;Undirected;2
+Leonard;Emily;Undirected;1
+Leonard;Kurt;Undirected;6
+Leonard;Stephen Hawking;Undirected;6
+Leonard;Howard;Undirected;155
+Leonard;Sweatpants;Undirected;1
+Leonard;Amy;Undirected;60
+Leonard;Joy;Undirected;6
+Leonard;Kevin;Undirected;5
+Leonard;LeVar;Undirected;1
+Leonard;Bill;Undirected;3
+Leonard;Nurse;Undirected;1
+Leonard;Siebert;Undirected;3
+Leonard;George Smoot;Undirected;2
+Dr Schneider;Howard;Undirected;1
+NASA Guy;Howard;Undirected;1
+Sheldon-bot;Leonard;Undirected;2
+Sheldon-bot;Together;Undirected;1
+Sheldon-bot;Penny;Undirected;1
+Sheldon-bot;Raj;Undirected;1
+Kurt;Penny;Undirected;1
+Stephen Hawking;Sheldon;Undirected;1
+Ms Jenson;Alex;Undirected;1
+DMV Lady;Sheldon;Undirected;1
+Howard’s Mother;Leonard;Undirected;2
+Howard’s Mother;Penny;Undirected;1
+Howard’s Mother;Howard;Undirected;10
+Barber;Sheldon;Undirected;1
+Abby;Sheldon;Undirected;1
+Abby;Martha;Undirected;1
+Abby;Raj;Undirected;2
+Amy;Sheldon;Undirected;253
+Amy;Guy;Undirected;3
+Amy;Phone;Undirected;1
+Amy;Child;Undirected;2
+Amy;Everybody;Undirected;3
+Amy;Amelia;Undirected;3
+Amy;Howard and Bernadette;Undirected;6
+Amy;Bernadette;Undirected;44
+Amy;Stan Lee;Undirected;1
+Amy;Wil Wheaton;Undirected;4
+Amy;Korean;Undirected;1
+Amy;Priya;Undirected;7
+Amy;Girls;Undirected;1
+Amy;Bert;Undirected;5
+Amy;Penny;Undirected;68
+Amy;Dave;Undirected;2
+Amy;Stuart;Undirected;7
+Amy;Jimmy;Undirected;1
+Amy;Dan;Undirected;2
+Amy;Alex;Undirected;2
+Amy;Lucy;Undirected;2
+Amy;Leonard;Undirected;63
+Amy;Santa;Undirected;1
+Amy;Barry Kripke;Undirected;1
+Amy;Howard;Undirected;17
+Amy;Kathy;Undirected;1
+Amy;Doctor;Undirected;1
+Amy;Wil;Undirected;9
+Amy;Barry;Undirected;2
+Amy;Raj;Undirected;18
+Amy;Summer;Undirected;1
+Amy;Howard and Raj;Undirected;1
+Amy;Zack;Undirected;10
+Amy;Kripke;Undirected;2
+Amy;Girl;Undirected;4
+Amy;Professor Proton;Undirected;1
+Amy;Rai;Undirected;3
+Amy;Arthur;Undirected;2
+Assistant;Employee;Undirected;1
+Kevin;Penny;Undirected;4
+Kevin;Clerk;Undirected;1
+LeVar;Sheldon;Undirected;1
+LeVar;Wil;Undirected;1
+LeVar;Wil Wheaton;Undirected;1
+Toby;Sheldon;Undirected;1
+Toby;Penny;Undirected;2
+Christie and Howard’s Mother together;Howard;Undirected;1
+Past Leonard;Leonard;Undirected;1
+Past Leonard;Sheldon;Undirected;2
+Past Leonard;Joy;Undirected;1
+Past Leonard;Howard;Undirected;2
+Past Leonard;Howard and Raj;Undirected;2
+Past Leonard;Kirk;Undirected;1
+Past Leonard;Raj;Undirected;2
+Siebert;Rothman;Undirected;1
+Teleplay;David;Undirected;1
+Teleplay;Dave;Undirected;1
+Teleplay;Bill;Undirected;2
